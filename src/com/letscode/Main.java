@@ -3,6 +3,6 @@ package com.letscode;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello Mundo");
+        System.out.println("Primeiro Hello World");
     }
 }
